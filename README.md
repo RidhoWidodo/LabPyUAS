@@ -60,4 +60,23 @@
       main()
 
 **Berikut ini adalah Penjelasannya**
+1. **Fungsi** `tampilkan_menu():`
+  - Menampilkan menu pilihan kepada pengguna. Pengguna dapat memilih untuk menambah item, menampilkan struk, atau keluar dari program.
+2. **Fungsi** `tambah_item(keranjang):`
+  - Meminta pengguna untuk memasukkan nama item, harga, dan jumlah item.
+  - Menyimpan informasi item dalam dictionary `keranjang`, di mana nama item adalah kunci dan detail (harga dan jumlah) adalah nilai.
+3. **Fungsi** `tampilkan_struk(keranjang):`
+  - Menghitung total harga dari semua item dalam keranjang.
+  - Menampilkan setiap item beserta harga, jumlah, dan subtotal.
+  - Menampilkan total pembayaran di akhir.
+4. **Fungsi** `main():`
+ - Menginisialisasi keranjang sebagai dictionary kosong.
+ - Menggunakan loop `while` untuk terus menampilkan menu hingga pengguna memilih untuk keluar.
+ - Memanggil fungsi yang sesuai berdasarkan pilihan pengguna.
 
+**Hasil Dari Code Diatas**
+Setelah menjalankan program, pengguna dapat:
+
+ - Menambahkan item ke dalam keranjang belanja dengan memasukkan nama, harga, dan jumlah.
+ - Melihat struk pembayaran yang menunjukkan semua item yang dibeli, subtotal untuk setiap item, dan total pembayaran.
+ - Keluar dari program dengan memilih opsi yang sesuai.
