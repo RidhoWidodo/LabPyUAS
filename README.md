@@ -2,7 +2,7 @@
 
 *Nama   :Muhammad Ridho Hafiedz*
 
-*Nim    :31241095*
+*Nim    :312410195*
 
 *Kelas  :24.A.2*
 
