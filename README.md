@@ -8,7 +8,7 @@
 
 *Matkul :Bahasa Pemrograman*
 
-**Project Python: Sistem Kasir Sederhan**
+**Project Python: Sistem Kasir Sederha**
 
     #Program Kasir Sederhana
     def tampilkan_menu():
